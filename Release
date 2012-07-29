@@ -1,0 +1,8 @@
+Origin: Sarim's Cydia Repo
+Label: Sarim's Repo
+Suite: stable
+Version: 0.9
+Codename: tangelo
+Architectures: iphoneos-arm
+Components: main
+Description: An Repository containing my iOS experiments
